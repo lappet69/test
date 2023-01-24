@@ -13,8 +13,6 @@ npm install
 
 ```
 
----
-
 ```
 npm start
 
