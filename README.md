@@ -1,11 +1,12 @@
-# CLONE REPO
+### CLONE REPO
 ```
-git clone https://github.com/
+git clone https://github.com/lappet69/test.git
 ```
-# RUNNING PROGRAM
+### RUNNING PROGRAM
 ---
 ```
 npm install
 
 ```
 npm start
+```
